@@ -11,6 +11,7 @@ hr{
 body{
     font-family: 
     'Montserrat', sans-serif;
+    margin: 0px;
 }
 
 /** container **/
@@ -114,6 +115,10 @@ body{
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+}
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
 }
  
 .footer .link{
