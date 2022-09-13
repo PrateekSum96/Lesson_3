@@ -65,7 +65,7 @@ body{
 
 .navigation .name-brand{
     font-weight: bold;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
 }
 .navigation .nav-pills{
     text-align: right;
@@ -126,4 +126,12 @@ body{
 }
 .footer ul{
     padding-inline-start: 0px;
+}
+.section .container .link{
+    text-align: center;
+}
+
+.txt-center{
+    text-align: center;
+    margin: 1rem auto;
 }
