@@ -107,8 +107,8 @@ body{
 /** Section **/
 .section{
     padding: 2rem;
-    margin: 2rem;
-    border-radius: 0.5rem;
+    /* margin: 2rem; */
+    border-radius: 1rem;
 }
 .section h1{
     text-align: center;
@@ -151,6 +151,6 @@ body{
     margin: auto;
     
 }
-/* .bottom-pad{
+.bottom-pad{
     padding-bottom: 6rem;
-} */
+}
