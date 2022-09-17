@@ -36,9 +36,7 @@ body{
     background-color: var(--primary-color);
     border-radius: .5rem;
     color: white;
-    /* max-width: 140px;
-    padding: 0.6rem 1.2rem;
-    margin: 1rem auto; */
+  
 }
 
 .secondary-link{
@@ -46,9 +44,7 @@ body{
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
 
-    /* max-width: 140px;
-    margin: 1rem;
-    padding: 0.6rem 1.2rem; */
+  
    
 }
 
@@ -107,7 +103,7 @@ body{
 /** Section **/
 .section{
     padding: 2rem;
-    /* margin: 2rem; */
+   
     border-radius: 1rem;
 }
 .section h1{
